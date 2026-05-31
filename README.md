@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Senior Computer Engineering student from Kuwait
+- 🎓 Computer Engineering fresh graduate from Kuwait University 
 - 🤖 Passionate about Robotics, AI, and Autonomous Systems
 - 🧠 Competitive Programmer & Problem Solver
 - 📱 Flutter Developer with experience in Firebase and mobile applications
