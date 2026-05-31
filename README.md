@@ -60,14 +60,6 @@ VS Code 
 
 ---
 
-## 📊 GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyrex04&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-
-<br><br><br><br><br><br><br><br>
-
----
-
 ## ⚡ Fun Fact
 
 > “The best way to learn technology is to build with it.”
